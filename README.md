@@ -1,15 +1,14 @@
 <p align="center">
   <a href="https://github.com/IrregDraken">
+    <p align="center">
+  <img src="./assets/banner.png" width="100%" alt="A.D.A.M Banner">
+</p>
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=858&text=Hello!%20I'm%20%C3%90%20R%20%C6%9B%20K%20E%20N%20%E4%BB%96" alt="Hello! I'm Ð R ƛ K E N 他" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=3fb950&center=true&vCenter=true&width=805&height=44&lines=Tech%2C%20Thoughts%2C%20Music%20%26%20whatever%20survives%20the%20week.;Building%20things%20that%20prolly%20started%20at%202am." alt="Typing headlines" />
-</p>
-
-<p align="center">
-  <img src="./assets/banner.png" width="100%" alt="A.D.A.M Banner">
 </p>
 
 ---
