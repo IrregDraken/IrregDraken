@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/adam-banner.png" width="100%" alt="A.D.A.M Banner">
+  <img src="./assets/banner.png" width="100%" alt="A.D.A.M Banner">
 </p>
 
 ---
