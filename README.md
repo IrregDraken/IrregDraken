@@ -17,8 +17,8 @@
 
 > Just a guy trying to leave the internet a little better than I found it.
 
-🔭 &nbsp;I'm currently working on **A.D.A.M**  
-🌱 &nbsp;I'm currently learning **System Design, Cloud Architecture, Docker, and Rust.**  
+🔭 &nbsp;I'm currently working on **R.U.N.E**  
+🌱 &nbsp;I'm currently learning **Cloud Computing**  
 👯 &nbsp;I'm looking to collaborate on **Open-source AI, backend engineering, and developer tools.**  
 🤔 &nbsp;I'm looking for help with **Scaling applications and building production-ready software.**  
 💬 &nbsp;Ask me about **Python, Flask, FastAPI, AI, APIs, UI/UX, and software architecture.**  
